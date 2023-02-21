@@ -59,4 +59,4 @@ You can change target file directry by cli arguments.
 
 
 ### Use With Notebook
-
+see [post_samples.ipynb](./notebook/post_samples.ipynb) 
